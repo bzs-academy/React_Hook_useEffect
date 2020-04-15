@@ -6,8 +6,8 @@ import Class002 from './components/Class002';
 import Hook002 from './components/Hook002';
 import Class003 from './components/Class003';
 import MouseContainer from './components/MouseContainer';
-import HookSetInterval from './components/HookSetInterval';
-import HookDataFetch from './components/HookDataFetch';
+import HookSetInterval from './components/HookSetInterval'
+import HookDataFetch from './components/HookDataFetch'
 
 
 

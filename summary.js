@@ -1,3 +1,4 @@
+ımport React, {useEffect} from 'react';
 
 /**
 1. componentDidMount
@@ -42,3 +43,4 @@ useEffect(()=> {
 
 
 */
+
